@@ -18,5 +18,5 @@ Anonymously send email containing funny memes.
 - Not fully optimized for smaller screen.
 
 ## Demo:
-[https://cltn39.github.io/Mememail/](https://cltn39.github.io/group-project-1/)
+[https://cltn39.github.io/Mememail/](https://cltn39.github.io/Mememail/)
 [![image.png](https://i.postimg.cc/1Rvz8CRB/image.png)](https://cltn39.github.io/group-project-1/)
